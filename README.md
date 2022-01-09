@@ -1,3 +1,4 @@
+# this is a small project to port PyFox to GTKWebKit2.
 ![Logo][5]
 
 **PyFox** - Rethinked Web Browser
